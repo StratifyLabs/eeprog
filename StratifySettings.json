@@ -1,9 +1,4 @@
 {
-    "LocalBuild": "build_release_armv7m",
-    "LocalInstallPath": "/app/.install",
-    "LocalIsRam": false,
-    "LocalIsStartup": false,
-    "LocalProjectId": "-Kms00U6xlEby6A9NArS",
     "buildprefix": "build_",
     "description": "eeprog is a utility is for reading and writing I2C based EEPROM chips.",
     "github": "https://github.com/StratifyLabs/eeprog",
